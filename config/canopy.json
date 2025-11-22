@@ -1,0 +1,19 @@
+{
+  "collection": "https://kyaskowich.github.io/booktok-collection-example/index.json",
+  "devCollection": "https://kyaskowich.github.io/booktok-collection-example/index.json",
+  "featured": [
+    "https://kyaskowich.github.io/booktok-collection-example/75555793/manifest.json"
+  ],
+  "metadata": ["Author", "Demographic"],
+  "label": { "none": ["Booktok Example Site"] },
+  "summary": {
+    "none": ["MBooktok Example Site."]
+  },
+  "theme": {
+    "defaultTheme": "light",
+    "accentColor": "red",
+    "grayColor": "mauve",
+    "radius": "small",
+    "scaling": "100%"
+  }
+}
