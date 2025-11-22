@@ -1,0 +1,217 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kyaskowich.github.io/booktok-collection-example/45043369/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Anna K: A Love Story (Anna K #1)"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Original Year of Publication"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2020"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Description"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Every happy teenage girl is the same, while every unhappy teenage girl is miserable in her own special way.\n\nMeet Anna K. At seventeen, she is at the top of Manhattan and Greenwich society (even if she prefers the company of her horses and Newfoundland dogs); she has the perfect (if perfectly boring) boyfriend, Alexander W.; and she has always made her Korean-American father proud (even if he can be a little controlling). Meanwhile, Anna's brother, Steven, and his girlfriend, Lolly, are trying to weather a sexting scandal; Lolly�s little sister, Kimmie, is struggling to recalibrate to normal life after an injury derails her ice dancing career; and Steven�s best friend, Dustin, is madly (and one-sidedly) in love with Kimmie.\n\nAs her friends struggle with the pitfalls of ordinary teenage life, Anna always seems to be able to sail gracefully above it all. That is�until the night she meets Alexia �Count� Vronsky at Grand Central. A notorious playboy who has bounced around boarding schools and who lives for his own pleasure, Alexia is everything Anna is not. But he has never been in love until he meets Anna, and maybe she hasn�t, either. As Alexia and Anna are pulled irresistibly together, she has to decide how much of her life she is willing to let go for the chance to be with him. And when a shocking revelation threatens to shatter their relationship, she is forced to question if she has ever known herself at all.\n\nDazzlingly opulent and emotionally riveting, Anna K.: A Love Story is a brilliant reimagining of Leo Tolstoy's timeless love story, Anna Karenina_but above all, it is a novel about the dizzying, glorious, heart-stopping experience of first love and first heartbreak."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Jenny Lee"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Demographic"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Young Adult"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Genre Category"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Primary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Contemporary Romance"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Secondary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Classic Literature Retellings"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Publisher/Imprint"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Macmillan; Flatiron Books"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "ISBN"
+                ]
+            },
+            "value": {
+                "none": [
+                    "9781250236432"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "BIPOC Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Yes"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "BIPOC Character(s)"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Yes"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Tag"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Literary Aesthetic",
+                    "Coming of Age",
+                    "YA Reads"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-example/45043369/c775c31ade98b6a01820e6e296cfa9f0/full/198,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 198
+        }
+    ],
+    "items": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-example/45043369/canvas/1",
+            "type": "Canvas",
+            "height": 961,
+            "width": 632,
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-example/45043369/c775c31ade98b6a01820e6e296cfa9f0/full/198,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 198
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-example/45043369/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://kyaskowich.github.io/booktok-collection-example/45043369/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://kyaskowich.github.io/booktok-collection-example/45043369/canvas/1",
+                            "body": {
+                                "id": "https://kyaskowich.github.io/booktok-collection-example/45043369/c775c31ade98b6a01820e6e296cfa9f0/full/632,961/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 961,
+                                "width": 632,
+                                "service": [
+                                    {
+                                        "id": "https://kyaskowich.github.io/booktok-collection-example/45043369/c775c31ade98b6a01820e6e296cfa9f0",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
